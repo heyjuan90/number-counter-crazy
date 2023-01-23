@@ -1,5 +1,5 @@
 x = 1
 
-while x <= 1000000000000000:
+while True:
     print(x)
     x = x + 1
